@@ -4,7 +4,6 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
 <h1>List of currently open job positions at PTC Inc. </h1>
 <table>
   <tr>
@@ -13,6 +12,7 @@
     <th>Job Location</th>
   </tr>
   <tr>
+<tr>
 <td><a href="https://ptc-software.referralrecruit.com/referral/jobapply?jobId=020620004664&xid=28644544b8yuhN
 ">Servicenow HRSD &ITSM -Solution Architect</a></td>
 <td>5-10 yrs</td>
@@ -60,8 +60,6 @@
 <td>4-6 yrs</td>
 <td>Pune</td>
 </tr>
-
 </table>
-
 </body>
 </html>
